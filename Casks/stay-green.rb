@@ -2,8 +2,7 @@ cask "stay-green" do
   version "0.5.4"
   sha256 "00fd83895bbc0134f7a8fd808e5daf67de635330fab2aa339c63e5d29777575f"
 
-  url "https://github.com/GetStayGreen/staygreen/releases/download/v#{version}/StayGreen-#{version}.dmg",
-      verified: "github.com/GetStayGreen/staygreen/"
+  url "https://github.com/GetStayGreen/staygreen/releases/download/v#{version}/StayGreen-#{version}.dmg"
   name "Stay Green"
   desc "Keeps chat app presence active while you are idle"
   homepage "https://getstaygreen.com/"
