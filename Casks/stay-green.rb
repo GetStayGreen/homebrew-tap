@@ -1,6 +1,6 @@
 cask "stay-green" do
-  version "0.5.4"
-  sha256 "00fd83895bbc0134f7a8fd808e5daf67de635330fab2aa339c63e5d29777575f"
+  version "1.0.0"
+  sha256 "71eaec86e66c3c5dd9401f8ade13e9f330e2b8eff383b0090d381a201eab7156"
 
   url "https://github.com/GetStayGreen/staygreen/releases/download/v#{version}/StayGreen-#{version}.dmg"
   name "Stay Green"
